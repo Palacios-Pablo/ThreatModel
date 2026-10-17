@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "New Threat Model 1",
+    "owner": "Pablo Palacios",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New PLOT4ai diagram",
+        "diagramType": "PLOT4ai",
+        "placeholder": "New PLOT4ai diagram description",
+        "thumbnail": "./public/content/images/thumbnail.plot4ai.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Pablo Palacios",
+    "threatTop": 0
+  }
+}
